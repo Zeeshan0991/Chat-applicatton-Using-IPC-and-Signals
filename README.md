@@ -1,1 +1,0 @@
-# Chat-applicatton-Using-IPC-and-Signals
