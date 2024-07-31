@@ -145,10 +145,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]( file for details.
 
 ## 📧 Contact
 
-Your Name - [your-email@example.com](muhammadzeeshan06222@gmail.com)
+Your Email - [muhammadzeeshan06222@gmail.com]
 
-Project Link: [https://github.com/your-username/chat-application-ipc-signals](https://github.com/your-username/chat-application-ipc-signals)
+Project Link: [https://github.com/Zeeshan0991/Chat-applicatton-Using-IPC-and-Signals/tree/main)
