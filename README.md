@@ -149,6 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [your-email@example.com](muhammadzeeshan06222@gmail.com)
 
 Project Link: [https://github.com/your-username/chat-application-ipc-signals](https://github.com/your-username/chat-application-ipc-signals)
